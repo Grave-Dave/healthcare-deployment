@@ -1,0 +1,6 @@
+[submodule "healthcare-fe"]
+	path = healthcare-fe
+	url = https://github.com/Grave-Dave/healthcare-fe.git
+[submodule "healthcare-be"]
+	path = healthcare-be
+	url = https://github.com/Grave-Dave/healthcare-be.git
